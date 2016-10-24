@@ -8,6 +8,8 @@ public class HelloGithub {
 		// TODO Auto-generated method stub
 		
 		System.out.println("Hello GitHub");
+		System.out.printIn("Just trying to understand how forking work");
+		
 
 	}
 
